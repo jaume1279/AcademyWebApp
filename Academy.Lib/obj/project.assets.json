@@ -1184,11 +1184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IT_Academy\\C#\\ExamDecember2019\\WPFAcademy\\Academy.Lib\\Academy.Lib.csproj",
+      "projectUniqueName": "D:\\IT_Academy\\C#\\ASP\\FirstExercise\\NewAcademy\\Academy.Lib\\Academy.Lib.csproj",
       "projectName": "Academy.Lib",
-      "projectPath": "D:\\IT_Academy\\C#\\ExamDecember2019\\WPFAcademy\\Academy.Lib\\Academy.Lib.csproj",
+      "projectPath": "D:\\IT_Academy\\C#\\ASP\\FirstExercise\\NewAcademy\\Academy.Lib\\Academy.Lib.csproj",
       "packagesPath": "C:\\Users\\jaume\\.nuget\\packages\\",
-      "outputPath": "D:\\IT_Academy\\C#\\ExamDecember2019\\WPFAcademy\\Academy.Lib\\obj\\",
+      "outputPath": "D:\\IT_Academy\\C#\\ASP\\FirstExercise\\NewAcademy\\Academy.Lib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"
